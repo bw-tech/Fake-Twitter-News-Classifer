@@ -4,7 +4,7 @@
 
 Anirudh Shah, Bailey Wei, Howey Qiu, Frans Fourie, Tom Shanahan
 
-Thank you to the entire team for the great work!
+Thank you to my teammates for the great work!
 
 ## Abstract
 
@@ -16,4 +16,4 @@ Our model reached  99.81% classification accuracy on our test set.
 
 ## Future Steps
 
-Initially our results worried us greatly. We figured that this was due to severe overfitting and stepping over key data science principles. However, our team ensured quality of work was consistent. Upon further research we found our results were in line other with comparable techniques. 
+Initially our results worried us greatly. We figured that this was due to severe overfitting and stepping over key data science principles. However, our team reviewed over and ensured the quality of work was consistent. Upon further research we found our results were in line with other comparable techniques too. 
