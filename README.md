@@ -2,13 +2,9 @@
 
 ## Team
 
-Anirudh Shah - as3947
-Bailey Wei - bw489
-Howey Qiu - hhq3
-Frans Fourie - fjf46
-Tom Shanahan - tks46
+Anirudh Shah, Bailey Wei, Howey Qiu, Frans Fourie, Tom Shanahan
 
-Thank you to the entire team for the great work.
+Thank you to the entire team for the great work!
 
 ## Abstract
 
